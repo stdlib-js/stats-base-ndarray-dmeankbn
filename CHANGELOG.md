@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-03-07)
+## Unreleased (2026-03-08)
 
 <section class="features">
 
@@ -22,6 +22,8 @@
 
 <details>
 
+-   [`29ff047`](https://github.com/stdlib-js/stdlib/commit/29ff0471bed046e79d71c8897d9783e1e556bea2) - **docs:** fix indentation and return annotation _(by Philipp Burckhardt)_
+-   [`c07de96`](https://github.com/stdlib-js/stdlib/commit/c07de963b0116d680060bb12d271fd8bf0bb26c1) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`9c5d666`](https://github.com/stdlib-js/stdlib/commit/9c5d666f3f74d8a7daccc211a0434656e2261b7e) - **feat:** add C implementation for `stats/base/ndarray/dmeankbn` [(#10283)](https://github.com/stdlib-js/stdlib/pull/10283) _(by Bhargav Dabhade, Philipp Burckhardt, Sachin Pangal)_
 
 </details>
